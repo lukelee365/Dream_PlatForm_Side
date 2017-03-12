@@ -1,6 +1,0 @@
-Base path: /Applications/Unity/Unity.app/Contents
-Cmd: getPlatforms
-Cmd: compileCompute
-  api=4 insize=2664 outsize=4053 ok=1
-Cmd: compileCompute
-  api=15 insize=2664 outsize=16929 ok=1
